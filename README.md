@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suvodeep Guria
 - 👀 I’m interested in Coding...
-- 🌱 I’m currently learning Java and Full Stack Web Dev
+- 🌱 I’m currently learning Java and Android App Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email : suvodeepguria@gmail.com
 - 😄 Pronouns: ... he/him
